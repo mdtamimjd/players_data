@@ -1,0 +1,130 @@
+[
+    {
+        "player_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/220px-Virat_Kohli_in_PMO_New_Delhi.jpg",
+        "name": "Virat Kohli",
+        "country": "India",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2000",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://static.cricketaddictor.com/wp-content/uploads/2022/06/Root.jpg?q=80",
+        "name": "Joe Root",
+        "country": "England",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$1800",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://assets.telegraphindia.com/telegraph/88ca17d3-1621-4b0e-b873-267dc935597f.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2200",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://cms.sabcsport.com/storage/images/Kane_Williamson_PA.webp",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$1900",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://crictoday.com/wp-content/uploads/2023/04/Untitled-design.jpg",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2100",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://example.com/img/player6.jpg",
+        "name": "David Warner",
+        "country": "Australia",
+        "batting_style": "Left-hand bat",
+        "hire_price": "$1750",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://example.com/img/player7.jpg",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$1950",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://example.com/img/player8.jpg",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "batting_style": "Left-hand bat",
+        "hire_price": "$1850",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://example.com/img/player9.jpg",
+        "name": "Shai Hope",
+        "country": "West Indies",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$1600",
+        "all_rounder": false
+    },
+    {
+        "player_img": "https://example.com/img/player10.jpg",
+        "name": "Marnus Labuschagne",
+        "country": "Australia",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2000",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player11.jpg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "batting_style": "Left-hand bat",
+        "hire_price": "$2300",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player12.jpg",
+        "name": "Ben Stokes",
+        "country": "England",
+        "batting_style": "Left-hand bat",
+        "hire_price": "$2500",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player13.jpg",
+        "name": "Hardik Pandya",
+        "country": "India",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2400",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player14.jpg",
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2600",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player15.jpg",
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2500",
+        "all_rounder": true
+    },
+    {
+        "player_img": "https://example.com/img/player16.jpg",
+        "name": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "batting_style": "Right-hand bat",
+        "hire_price": "$2000",
+        "all_rounder": true
+    }
+]
